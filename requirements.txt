@@ -1,1 +1,5 @@
+pandas
+numpy
+scikit-learn
+seaborn
 Flask
